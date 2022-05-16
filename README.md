@@ -29,3 +29,6 @@ Contiene la definición detallada de todos los entregables desarrollados por ERP
 - [Ajuste de Costo](docs/packages/cost-adjustment.md)
 - [Importación de Datos](docs/packages/data-import.md)
 - [Configuración Contable Personalizada](docs/packages/custom-accounting-setup.md)
+
+# Licencia Creativa
+La Licencia Creativa de los documentos relacionados pueden consultarse [aquí](https://creativecommons.org/licenses/by-nd/4.0/deed.es)
