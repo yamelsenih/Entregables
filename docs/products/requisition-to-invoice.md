@@ -9,6 +9,7 @@ Se pueden crear requerimientos manualmente o en forma automática vía Reposici�
 Gestiona las peticiones realizadas por una empresa o un particular, dirigida a un fabricante, comercio o prestador de servicios, sobre los costos de un producto o servicio, para evaluar posibles compras, ademas de usarse para comparar precios con otros proveedores. 
 
 ### Operaciones de Solicitud Para Cotización:
+- Creacion de Solicitud de Cotización a partir de una Requisición de Materiales.
 - Clasificación de proveedores por tipo de producto.
 - Solicitud para Cotización Basado en:
   - Mejor Precio de Producto 
