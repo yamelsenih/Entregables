@@ -19,4 +19,4 @@ Administra todo lo relacionado con entradas y salidas de inventario. Desde una r
 - Consumo Interno de Material
 - Reabastecimiento
 
-Para referncia de la funcionalidad se tiene un instructivo completo con todos los productos y paquetes [aquí](https://docs.erpya.com/adempiere/material-management/index.html)
+Para referencia de la funcionalidad se tiene un instructivo completo con todos los productos y paquetes [aquí](https://docs.erpya.com/adempiere/material-management/index.html)
