@@ -28,4 +28,4 @@ Controla la relación de todas las retenciones de compra y ventas, así como los
 - Anticipos
 - Pago de intereses
 
-Para referncia de la funcionalidad se tiene un instructivo completo con todos los productos y paquetes [aquí](https://docs.erpya.com/adempiere/open-items/index.html)
+Para referencia de la funcionalidad se tiene un instructivo completo con todos los productos y paquetes [aquí](https://docs.erpya.com/adempiere/open-items/index.html)
