@@ -24,3 +24,4 @@ Contiene la definición detallada de todos los entregables desarrollados por ERP
 - [Adecuación de Formatos de Impresión Tipo Listado](docs/packages/report-customization.md)
 - [Ajuste de Costo](docs/packages/cost-adjustment.md)
 - [Importación de Datos](docs/packages/data-import.md)
+- [Configuración Contable Personalizada](docs/packages/custom-accounting-setup.md)
