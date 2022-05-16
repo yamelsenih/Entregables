@@ -3,6 +3,7 @@ Contiene la definición detallada de todos los entregables desarrollados por ERP
 
 ## Verticales
 - [Retail](docs/verticals/retail.md)
+- [Servicio](docs/verticals/service.md)
 
 ## Productos
 - [Nómina](docs/products/payroll.md)
