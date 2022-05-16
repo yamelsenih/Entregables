@@ -2,13 +2,17 @@
 Controla la relación de todas las retenciones de compra y ventas, así como los impuestos y libros de ley
 
 ## Retenciones
-- **I.S.L.R:**
-- **I.V.A:**
-- **Municipal:**
-- **I.G.T.F:**
+- **I.S.L.R:** De CxP y CxC
+- **I.V.A:** De CxP y CxC
+- **Municipal:** De CxP y CxC
+- **I.G.T.F:** De CxP y CxC
 
 
 ## Reportes de Ley
+- Libro de Ventas:
+  - General
+  - Resumido por Equipo Fiscal
+- Libro de Compras
 
 ## Paquetes para Declaración
 - TXT de I.V.A:
