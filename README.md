@@ -8,8 +8,8 @@ Contiene la definición detallada de todos los entregables desarrollados por ERP
 - [Nómina](docs/products/payroll.md)
 - [Ventas](docs/products/quote-to-invoice.md)
 - [Compras](docs/products/requisition-to-invoice.md)
-- [Nómina](docs/products/)
-- [Nómina](docs/products/performance-analysis.md)
+- [Cadena de Suministro](docs/products/supply-chain-management.md)
+- [Contabilidad](docs/products/performance-analysis.md)
 
 ## Servicios
 - [Consultoría de Procesos](docs/services/process-consulting.md)
