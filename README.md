@@ -10,7 +10,6 @@ Contiene la definición detallada de todos los entregables desarrollados por ERP
 - [Ventas](docs/products/quote-to-invoice.md)
 - [Cadena de Suministro](docs/products/supply-chain-management.md)
 - [Gestion de Materiales (Inventario)](docs/products/material-management.md)
-- [Administración](docs/products/business-administration-management.md)
 - [Tesorería](docs/products/open-items-management.md)
 - [Tributos](docs/products/tributes.md)
 - [Contabilidad](docs/products/performance-analysis.md)
