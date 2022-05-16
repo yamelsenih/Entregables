@@ -5,7 +5,7 @@ Esta configuración debe hacerse cuando el cliente desea usar y configurar su pr
 Se requiere importar nuevo plan de cuentas para cumplir con una norma específica
 
 ## ¿Qué se necesita para iniciar la Importación?
-- Importar plan de cuentas y configurar parametros contables en los maestros e informes financieros
+- Plan de cuentas en hoja de cálculo según especificaciones dadas
 
 ## Entregable
 - Configuración de cuentas de acuerdo al plan de cuentas recibido
