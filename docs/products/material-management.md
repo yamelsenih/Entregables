@@ -1,7 +1,7 @@
-# Gestión de Materiales
+# Gestión de Inventario
 Administra todo lo relacionado con entradas y salidas de inventario. Desde una recepción de proveedor hasta un movimiento de inventario, ajuste, salida de uso interno entre otros.
 
-## Reportes de Materiales
+## Reportes de Inventario
 
 - **Almacenamiento por Producto:** Muestra la existencia al día por producto, almacén y ubicación.
 - **Detalle de Almacenamiento:** Muestra la existencia al día por producto, instancia, almacén y ubicación.
