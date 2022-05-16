@@ -1,20 +1,6 @@
-# Organización Privada de ERP
-Contiene todas las minutas, definiciones y cualquier otra información privada de socios de ERP
+# Entregables en productos y servicios
+Contiene la definición detallada de todos los entregables desarrollados por ERP Consultores y Asociados, C.A
 
-## Tipo de Negocio
-Describa el tipo de negocio relacionado al cliente
-
-## Necesidades claves
-- Producto completamente estable
-- Una fuerza de ventas bien organizada
-- Un servicio postventa escalable
-
-## Objetivos a Corto plazo
-- Concentrar nuestro esfuerzo en vender
-- Potenciar el producto final entregable
-- Tener un producto robusto y listo para usar
-
-# Documentos
 ## Verticales
 - [Retail](docs/verticals/retail.md)
 
