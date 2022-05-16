@@ -6,6 +6,10 @@ Contiene la definición detallada de todos los entregables desarrollados por ERP
 
 ## Productos
 - [Nómina](docs/products/payroll.md)
+- [Nómina](docs/products/payroll.md)
+- [Nómina](docs/products/payroll.md)
+- [Nómina](docs/products/payroll.md)
+- [Nómina](docs/products/performance-analysis.md)
 
 ## Servicios
 - [Consultoría de Procesos](docs/services/process-consulting.md)
