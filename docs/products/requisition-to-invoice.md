@@ -10,7 +10,4 @@ Recibe sus materiales y crea directamente (y controla) los envíos correspondien
 ## Facturas de Proveedor
 Crea directamente (y controla) las facturas a partir de la Órdenes de Compra o Recibos. También puede crear automáticamente los recibos de las facturas al momento de recibir las facturas y los envíos.
 ## Pagos
-Genera los pagos de acuerdo a las condiciones de pago considerando los descuentos por forma de pago.
-## Esatados de Cuenta Bancarios
-Los Extractos Bancarios (resúmenes de cuenta) pueden ingresarse o cargarse de manera automática. Puede reconciliar sus pagos en proceso, ingresar cargos o registrar sus pagos por débito directo.
-- Un instructivo para futura referencia en la plataforma [ERP Docs](https://docs.erpya.com/)
+- Genera los pagos de acuerdo a las condiciones de pago considerando los descuentos por forma de pago,
