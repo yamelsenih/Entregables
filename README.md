@@ -6,7 +6,7 @@ Contiene la definición detallada de todos los entregables desarrollados por ERP
 
 ## Productos
 - [Nómina](docs/products/payroll.md)
-- [Nómina](docs/products/payroll.md)
+- [Ventas](docs/products/quote-to-invoice.md)
 - [Nómina](docs/products/payroll.md)
 - [Nómina](docs/products/payroll.md)
 - [Nómina](docs/products/performance-analysis.md)
