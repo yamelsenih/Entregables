@@ -2,7 +2,7 @@
 Esta actividad corresponde a uno de los pasos iniciales en el arranque del sistema. Es la forma de preservar ciertos datos y saldos del sistema anterior para evitar su retranscripción en el nuevo sistema.
 
 # Condiciones
-Sólo se importan los siguientes elementos:
+Algunos de los siguientes elementos forman parte de la importación de datos:
 
 - Socios de negocio (empleados, clientes y proveedores)
 - Productos
@@ -29,6 +29,7 @@ Se requiere importar los proveedores de la empresa. Se debe suministrar en la pl
 - Un instructivo para futura referencia en la plataforma [ERP Docs](https://docs.erpya.com/)
 
 ## Condiciones del Servicio
-- Se harán dos iteraciones por cada elemento a importar. Si se requiere hacer una tercera iteración o importación, debe ser discutida y se generará una propuesta adicional.
+- **Se harán dos iteraciones por cada elemento a importar:** Por cada iteración se entregará al cliente un reporte con los registros importados y los que no se pudieron importar por algún error en los datos.
+- Si se requiere hacer más de dos iteraciones, debe ser discutida y se generará una propuesta adicional.
+- Una vez aprobados los datos para importar se hará la impoortación, en caso de que el cliente desee importar datos adicionales serán tomados como un nuevo paquete de importación en función de la cantidad de redgistros a importar.
 - La inversión económica a realizar para la importación de data será estimada en función de la cantidad de registros.
-- Si existe algún elemento a importar no considerado arriba, será generada una nueva propuesta.
