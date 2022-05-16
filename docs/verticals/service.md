@@ -22,6 +22,7 @@ La vertical de servicio enfoca su entregable en las herramientas que permiten ll
 - [Ventas](../products/quote-to-invoice.md)
 - [Compras](../products/requisition-to-invoice.md)
 - [Gestión Administrativa](../products/business-administration-management.md)
+- [Tributos](../docs/products/tributes.md)
 
 ## Productos relacionados
 - [Nómina](../products/payroll.md)
