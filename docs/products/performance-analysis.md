@@ -24,5 +24,5 @@ esquema de contabilidad múltiple. Los Diarios Manuales le permiten crear entrad
 
 Adempiere le permite generar diarios para: Alocaciones, Revalúos y Reconciliaciones
 
-- Un instructivo para futura referencia en la plataforma [ERP Docs](https://docs.erpya.com/adempiere/performance-analysis/index.html)
+Para referencia de la funcionalidad se tiene un instructivo completo con todos los productos y paquetes [aquí](https://docs.erpya.com/adempiere/performance-analysis/index.html)
 
