@@ -6,15 +6,15 @@ Contiene la definición detallada de todos los entregables desarrollados por ERP
 - [Servicio](docs/verticals/service.md)
 
 ## Productos
-- [Nómina](docs/products/payroll.md)
-- [Ventas](docs/products/quote-to-invoice.md)
 - [Compras](docs/products/requisition-to-invoice.md)
+- [Ventas](docs/products/quote-to-invoice.md)
 - [Cadena de Suministro](docs/products/supply-chain-management.md)
-- [Contabilidad](docs/products/performance-analysis.md)
 - [Gestion de Materiales (Inventario)](docs/products/material-management.md)
 - [Administración](docs/products/business-administration-management.md)
 - [Tesorería](docs/products/open-items-management.md)
 - [Tributos](docs/products/tributes.md)
+- [Contabilidad](docs/products/performance-analysis.md)
+- [Nómina](docs/products/payroll.md)
 
 ## Servicios
 - [Consultoría de Procesos](docs/services/process-consulting.md)
