@@ -11,6 +11,7 @@ Contiene la definición detallada de todos los entregables desarrollados por ERP
 - [Consultoría de Procesos](docs/services/process-consulting.md)
 
 ## Aplicaciones
+- [Fuerza de Ventas](docs/apps/sales-force.md)
 
 ## Educación
 
