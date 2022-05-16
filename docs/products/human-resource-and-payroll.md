@@ -1,4 +1,25 @@
-# Nómina
+## Talento Humano y Nómina
+
+## Talento Humano
+- Registro de la ficha de los trabajadores:
+  - Expediente
+  - Fotos
+  - Código de SSO
+  - Código de Marcaje
+  - Cuentas Bancarias
+  - Carga Familiar
+  - Nivel de Instrucción
+  - Habilidades adquiridas
+  - Estudios realizados
+- Registro de Estructura Organizativa:
+  - Organización
+  - Departamento
+  - Puesto
+  - Centro de Costo
+- Calendario de dias no laborables
+- Manejo de pago multi-moneda
+
+## Nómina
 Para facilitar la definición de los cálculos para procesar su nómina, hemos pre-parametrizado la funcionalidad básica usada en VENEZUELA. 
 Simplemente debe decidir usar esa definición estándar o bien modificarla para satisfacer más detalladamente las necesidades específicas de su empresa.  Dentro de las características del cálculo predeterminado, están:
 - Cálculo de Nómina Quincenal
