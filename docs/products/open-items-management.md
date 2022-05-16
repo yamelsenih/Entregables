@@ -25,4 +25,4 @@ Maneja lo relacionados con saldos pendientes de cuentas por pagar y cobrar. Cont
 - Anticipos
 - Pago de intereses
 
-- Un instructivo para futura referencia en la plataforma [ERP Docs](https://docs.erpya.com/)
+Para referncia de la funcionalidad se tiene un instructivo completo con todos los productos y paquetes [aquí](https://docs.erpya.com/adempiere/open-items/index.html)
