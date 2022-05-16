@@ -31,4 +31,4 @@ Contiene la definición detallada de todos los entregables desarrollados por ERP
 - [Configuración Contable Personalizada](docs/packages/custom-accounting-setup.md)
 
 # Licencia Creativa
-La Licencia Creativa de los documentos relacionados pueden consultarse [aquí](https://creativecommons.org/licenses/by-nd/4.0/deed.es)
+[Atribución-SinDerivadas 4.0 Internacional (CC BY-ND 4.0)](https://creativecommons.org/licenses/by-nd/4.0/deed.es)
