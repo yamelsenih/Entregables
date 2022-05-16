@@ -1,11 +1,11 @@
 # Gestión de Tributos
 Controla la relación de todas las retenciones de compra y ventas, así como los impuestos y libros de ley
 
-## Retenciones
-- **I.S.L.R:** De CxP y CxC
-- **I.V.A:** De CxP y CxC
-- **Municipal:** De CxP y CxC
-- **I.G.T.F:** De CxP y CxC
+## Retenciones aplicadas en Cuentas por Cobrar y Cuentas por Pagar
+- **I.S.L.R**
+- **I.V.A**
+- **Municipal**
+- **I.G.T.F**
 
 
 ## Reportes de Ley
