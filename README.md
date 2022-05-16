@@ -8,6 +8,7 @@ Contiene la definición detallada de todos los entregables desarrollados por ERP
 - [Nómina](docs/products/payroll.md)
 
 ## Servicios
+- [Consultoría de Procesos](docs/services/process-consulting.md)
 
 ## Aplicaciones
 
@@ -19,7 +20,3 @@ Contiene la definición detallada de todos los entregables desarrollados por ERP
 - [Adecuación de Ventanas](docs/packages/adecuacion-de-ventanas.md)
 - [Ajuste de Costo](docs/packages/ajuste-de-costo.md)
 - [Importación de Datos](docs/packages/importacion-de-datos.md)
-- [Flujos de Trabajo](docs/packages/workflows.md)
-- [Flujos de Trabajo](docs/packages/workflows.md)
-- [Flujos de Trabajo](docs/packages/workflows.md)
-- [Flujos de Trabajo](docs/packages/workflows.md)
