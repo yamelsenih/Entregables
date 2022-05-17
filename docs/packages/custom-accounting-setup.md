@@ -16,3 +16,7 @@ Se requiere importar nuevo plan de cuentas para cumplir con una norma específic
 ## Condiciones del Servicio
 - Se harán dos iteraciones para importar el plan de cuentas. Si se requiere hacer una tercera iteración o importación, debe ser discutida y se generará una propuesta adicional.
 - La inversión económica a realizar para la importación de data será estimada en función de la cantidad de cuentas a parametrizar.
+
+## Paquetes Relacionados
+
+[Análisis de Cuentas](accounting-analysis.md)
