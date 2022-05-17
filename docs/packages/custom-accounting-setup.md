@@ -11,7 +11,6 @@ Se requiere importar nuevo plan de cuentas para cumplir con una norma específic
 - Configuración de cuentas de acuerdo al plan de cuentas recibido
 - Cargos contables generados
 - Reportes financieros
-- Un instructivo para futura referencia en la plataforma [ERP Docs Contable](https://docs.erpya.com/adempiere/performance-analysis/index.html)
 
 ## Condiciones del Servicio
 - Se harán dos iteraciones para importar el plan de cuentas. Si se requiere hacer una tercera iteración o importación, debe ser discutida y se generará una propuesta adicional.
