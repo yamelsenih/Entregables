@@ -2,7 +2,7 @@
 Espacio dedicado a la capacitación de algún proceso específico de la aplicación. El mismo puede ir acompañado de una documentación genérica o de procesos.
 
 ## Ejemplo básico
-Se ŕequiere una capacitación sobre el proceso de requisición a compras para el nuevo empleado encargado de hacer las requisiciones a proveedores.
+Se requiere una capacitación sobre el proceso de requisición a compras para el nuevo empleado encargado de hacer las requisiciones a proveedores.
 
 ## ¿Qué se necesita para iniciar la capacitación?
 - Una solicitud realizada por el cliente con lo siguiente:
