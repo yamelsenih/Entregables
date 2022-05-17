@@ -19,5 +19,5 @@ Dedicada específicamente para el área de ventas de productos de consumo masivo
 - Instalación de la aplicación
 - Entrenamiento con las rutas
 - Entrenamiento con la administración de la aplicación
-- Documentación en [Docs ERPyA](https://docs.erpya.com/)
+- Documentación en [Docs ERPyA]([https://docs.erpya.com/](https://docs.erpya.com/adempiere/customer-relations/visit-planning.html))
 
