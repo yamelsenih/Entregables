@@ -20,6 +20,7 @@ Contiene la definición detallada de todos los entregables desarrollados por ERP
 
 ## Aplicaciones
 - [Fuerza de Ventas](docs/apps/sales-force.md)
+- [Punto de Ventas](docs/apps/pos-force.md)
 
 ## Educación
 - [Diccionario de Aplicación de ADempiere](docs/apps/adempiere-application-dictionary.md)
