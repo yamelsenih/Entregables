@@ -12,10 +12,16 @@ Dedicada a comercios retail con diversas cajas o puntos de venta.
 - Carga de clientes
 - Facturación fiscal y no fiscal
 - Manejo de factura y cobro multimoneda
-- Apertura y cierre de caja 
+- Apertura, ingreso, retiro y cierre de caja
+- Aprobación de devolución
+- Asignación de vendedores
+- Confirmación de cobro
+- Interfase con impresora fiscal
+- Reportes: ventas del día totales y por producto, detalle de caja y cierre diario de ventas versus cobro.
+- Reportes fiscales: X y Z
+- Manejo de diferentes roles:  
 
 ## Alcance del Servicio
 - Instalación de la aplicación
 - Entrenamiento a usuario
-- Entrenamiento con la administración de la aplicación
 - Documentación en [POS](https://docs.erpya.com/adempiere/pos-management/point-of-sale-terminal.html?highlight=punto%20de%20venta)
