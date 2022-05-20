@@ -29,7 +29,7 @@ Este servicio es vital como garantía en caso de que el cliente tenga algún eve
 - Recuperación de la información: En caso de ser posible recuperar la información que se encuntra en los servidores, ERPyA hará todo lo posible para recuperarla. Si no se puede recuperar se utilizará el último backup más reciente disponible
 - Restablecimiento del servicio: Corresponde a levantar el servicio nuevamente en los servidores del cliente. En caso de que el cliente no disponga temporalmente del servidor se puede ofrecer el servicio en la nube con un costo bajo demanda o infraestructura.
 ### Condiciones
-- La resinstalación y recuperación total sólo se hará sobre el servidor definitivo de producción o en la nube según el servicio contratado
+- La resinstalación y recuperación total sólo se hará sobre el servidor definitivo de producción o en la nube según el servicio contratado con un máximo de dos instalaciones por incidente
 - En caso de que el cliente desee la instalación en un servidor temporal la instalación definitiva será facturada
 
 ## Condiciones Generales
