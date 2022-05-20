@@ -32,5 +32,4 @@ Este servicio es vital como garantía en caso de que el cliente tenga algún eve
 - En caso de que el cliente desee la instalación en un servidor temporal la instalación definitiva será facturada
 
 ## Condiciones Generales
-- Durante el uso de este servicio E.R.P. Consultores y Asociados, C.A. se compromete a realizar actualizaciones en el core de ADempiere para tener el mismo en una versión reciente y estable por lo cual durante el contrato de suscripción no es permitido que un tercero realice cambios en la aplicación.
-- Los cambios que el cliente decida realizar sobre la aplicación deben ser validados por el equipo de E.R.P. Consultores y Asociados, C.A.
+- Durante el uso de este servicio E.R.P. Consultores y Asociados, C.A. se compromete a realizar los backups y revisión de la integridad de los datos así como pruebas de subida del mismo.
