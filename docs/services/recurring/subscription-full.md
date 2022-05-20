@@ -1,4 +1,4 @@
-# Suscripción
+# Suscripción Completa
 Corresponde a un servicio mensual (no acumulativo) que permite tener múltiples beneficios para instalaciones locales con infraestructura propia o de terceros.
 
 ## Beneficios
