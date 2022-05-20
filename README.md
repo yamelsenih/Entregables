@@ -21,6 +21,8 @@ Contiene la definición detallada de todos los entregables desarrollados por ERP
 - [Actualizaciones de Aplicación y de Ley](docs/services/recurring/subscription-updates.md)
 - [Backups y Recuperación en Caso de Desastre (DR)](docs/services/recurring/subscription-backups-and-disaster-recovery.md)
 - [Suscripción Completa](docs/services/recurring/subscription-full.md)
+- [Soporte de Primer Nivel](docs/services/recurring/support-first-tier.md)
+- [Soporte de Segundo Nivel](docs/services/recurring/support-second-tier.md)
 
 ## Aplicaciones
 - [Fuerza de Ventas](docs/apps/sales-force.md)
