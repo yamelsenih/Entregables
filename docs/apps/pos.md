@@ -18,10 +18,14 @@ Dedicada a comercios retail con diversas cajas o puntos de venta.
 - Confirmación de cobro
 - Interfase con impresora fiscal
 - Reportes: ventas del día totales y por producto, detalle de caja y cierre diario de ventas versus cobro.
-- Reportes fiscales: X y Z
+- Reportes fiscales: 
+  - Pre-Cierre: **X**
+  - Cierre: **Z**
 - Manejo de diferentes roles:  
 
 ## Alcance del Servicio
 - Instalación de la aplicación
-- Entrenamiento a usuario
+- [5 Sesiones de Capacitación a Vendedores](../learning/training-session.md)
+- [3 Sesiones de Capacitación a Supervisores](../learning/training-session.md)
+- [4 Sesiones de Capacitación a Genrentes](../learning/training-session.md)
 - Documentación en [POS](https://docs.erpya.com/adempiere-ui/adempiere/pos-management/point-of-sale-interface.html)
