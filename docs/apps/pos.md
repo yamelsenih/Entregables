@@ -24,4 +24,4 @@ Dedicada a comercios retail con diversas cajas o puntos de venta.
 ## Alcance del Servicio
 - Instalación de la aplicación
 - Entrenamiento a usuario
-- Documentación en [POS](https://docs.erpya.com/adempiere/pos-management/point-of-sale-terminal.html?highlight=punto%20de%20venta)
+- Documentación en [POS](https://docs.erpya.com/adempiere-ui/adempiere/pos-management/point-of-sale-interface.html)
