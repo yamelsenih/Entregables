@@ -17,6 +17,10 @@ Contiene la definición detallada de todos los entregables desarrollados por ERP
 
 ## Servicios
 - [Consultoría de Procesos](docs/services/process-consulting.md)
+### Recurrentes
+- [Actualizaciones de Aplicación y de Ley](docs/services/recurring/subscription-updates.md)
+- [Backups y Recuperación en Caso de Desastre (DR)](docs/services/recurring/subscription-backups-and-disaster-recovery.md)
+- [Suscripción Completa](docs/services/recurring/subscription-full.md)
 
 ## Aplicaciones
 - [Fuerza de Ventas](docs/apps/sales-force.md)
