@@ -25,6 +25,7 @@ Contiene la definición detallada de todos los entregables desarrollados por ERP
 ## Educación
 - [Diccionario de Aplicación de ADempiere](docs/apps/adempiere-application-dictionary.md)
 - [Sesión de Capacitación](docs/learning/training-session.md)
+- [Configuración Contable Basica](docs/learning/account-training.md)
 
 ## Paquetes de Servicio
 - [Flujos de Trabajo](docs/packages/workflows.md)
