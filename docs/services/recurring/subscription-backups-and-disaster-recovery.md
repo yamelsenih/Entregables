@@ -1,4 +1,4 @@
-# Suscripción
+# Backups y Recuperación en Caso de Desastre
 Corresponde a un servicio mensual (no acumulativo) que permite tener múltiples beneficios para instalaciones locales con infraestructura propia o de terceros.
 
 ## Backup de base de datos
@@ -21,7 +21,8 @@ Se realizan con la siguiente frequencia:
 
 ## Mantenimiento de Base de Datos
 Se realizan tareas para que los datos se encuentren íntegros y de fácil acceso, así como reducción considerable de tamaño de base de datos en disco. La frecuencia de los mantenimientos es semanal.
-### Recuperación en caso de desastre (DR)
+
+## Recuperación en caso de desastre (DR)
 Este servicio es vital como garantía en caso de que el cliente tenga algún evento inesperado como daños físicos en su infraestructura que impidan recuperar información o levantar el servicio.
 ### Bondades
 - Reinstalación del Sistema Operativo: Esto únicamente aplica cuando la instalación del mismo queda a cargo de ERPyA
