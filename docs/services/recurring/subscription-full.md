@@ -56,3 +56,5 @@ Este servicio es vital como garantía en caso de que el cliente tenga algún eve
 ## Condiciones Generales
 - Durante el uso de este servicio E.R.P. Consultores y Asociados, C.A. se compromete a realizar actualizaciones en el core de ADempiere para tener el mismo en una versión reciente y estable por lo cual durante el contrato de suscripción no es permitido que un tercero realice cambios en la aplicación.
 - Los cambios que el cliente decida realizar sobre la aplicación deben ser validados por el equipo de E.R.P. Consultores y Asociados, C.A.
+- El pago se realiza según los acuerdos de pago generales
+- Al suspender o pausar el servicio E.R.P. Consultores y Asociados, C.A. no se hará responsable por los entregables del mismo
