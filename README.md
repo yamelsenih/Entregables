@@ -48,7 +48,7 @@ Contiene la definición detallada de todos los entregables desarrollados por ERP
 - [Sesión de Consultoría General](docs/packages/general-consulting-session.md)
 
 ## Condiciones Generales
-- [Condiciones]
+- [[Condiciones]([url](https://github.com/erpcya/Entregables/blob/main/docs/conditions.md))]
 
 ## Licencia Creativa
 [Atribución-SinDerivadas 4.0 Internacional (CC BY-ND 4.0)](https://creativecommons.org/licenses/by-nd/4.0/deed.es)
