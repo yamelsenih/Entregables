@@ -39,7 +39,7 @@ Contiene la definición detallada de todos los entregables desarrollados por ERP
 - [Flujos de Trabajo](docs/packages/workflows.md)
 - [Actualización de Datos](docs/packages/data-batch-update.md)
 - [Adecuación de Ventanas](docs/packages/window-customization.md)
-- [Adecuación de Parámetros de Reportes](docs/packages/process-customization.md)
+- [Adecuación de Procesos](docs/packages/process-customization.md)
 - [Adecuación de Formatos de Impresión Tipo Listado](docs/packages/report-customization.md)
 - [Ajuste de Costo](docs/packages/cost-adjustment.md)
 - [Importación de Datos](docs/packages/data-import.md)
