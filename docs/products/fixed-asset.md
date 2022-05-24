@@ -6,7 +6,7 @@ Son ejemplos de activos fijos: bienes inmuebles, maquinaria, material de oficina
 ## ADempiere ERP soporta las siguientes funcionalidades para el manejo de Activos:
 
 ### Agrupación de Activos Fijos: 
-Esta figura controla las agrupaciones o clasificaciones de Activos Fijos basado en las siguientes caracteristicas:
+Venatana para Gestionar las agrupaciones o clasificaciones de Activos Fijos basado en las siguientes caracteristicas:
 
 - Información del Grupo de Activos Fijos
   - Informacion Basica del Grupo de Activos
@@ -21,7 +21,7 @@ Esta figura controla las agrupaciones o clasificaciones de Activos Fijos basado 
   - Vida Util en Meses
 
 ### Activo Fijo:
-Esta figura controla la información de los Activos Fijos basado en las siguientes caracteristicas:
+Ventana para gestionar la información de los Activos Fijos basado en las siguientes caracteristicas:
 
 - Información del Activos Fijo
   - Información Basica del Activo Fijo
@@ -54,3 +54,8 @@ Esta figura controla la información de los Activos Fijos basado en las siguient
   - Monto de la Transacción
 - Tabla de Depreciación
 
+### Ventana de Consulta de Activos
+Ventana con informacion resumida del activo
+
+### Metodos de Depreciacion
+Solo Soportado `Depreciación Lineal`
