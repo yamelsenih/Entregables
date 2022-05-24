@@ -36,7 +36,7 @@ Ventana para gestionar la información de los Activos Fijos basado en las siguie
   - Ubicación del Activo
   - Responsable del Activo
   - Información General Ultimo y Proximo Mantenimiento del Activo
-- Información del Producto Asociado al Activo `INFORMACION`
+- Información del Producto Asociado al Activo
 - Saldos del Activo Fijo
   - Costo del Activo
   - Tipo de Aplicación
