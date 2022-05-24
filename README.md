@@ -16,7 +16,7 @@ Contiene la definición detallada de todos los entregables desarrollados por ERP
 - [Nómina](docs/products/human-resource-and-payroll.md)
 - Agroindustria:
   - [Administración de Materia Prima](docs/products/raw-material-management.md)
-
+- [Activos Fijos](docs/products/fixed-asset.md)
 ## Servicios
 - [Consultoría de Procesos](docs/services/process-consulting.md)
 ### Recurrentes
