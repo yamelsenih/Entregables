@@ -51,6 +51,7 @@ Esta figura controla la información de los Activos Fijos basado en las siguient
   - Fecha Contable
   - Moneda
   - Tipo de Conversión
-  - Monto
+  - Monto de la Transacción
+- Desecho de Activos
 
 
