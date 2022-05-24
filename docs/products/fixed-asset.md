@@ -9,4 +9,17 @@ Son ejemplos de activos fijos: bienes inmuebles, maquinaria, material de oficina
 Esta figura controla las agrupaciones o clasificaciones de Activos Fijos basado en las siguientes caracteristicas:
 
 - Información del Grupo de Activos Fijos
-- Información Contable del Grupo de Activos Fijos
+  - Nombre de Grupo de Activos
+  - Es Propio
+  - Maneja Depreciación
+  - Es un activo
+
+- Información Contable del Grupo de Activos Fijos:
+  - Configuración contable
+  - Tipo de Depreciación
+  - Vida Util en Años
+  - Vida Util en Meses
+
+### Activo Fijo:
+Esta figura controla la información de los Activos Fijos basado en las siguientes caracteristicas:
+
