@@ -6,7 +6,7 @@ Gestiona las entradas y salidas de materia prima, este producto es ideal para em
 - **Detalle de Registro de Peso:** Muestra el detalle de todas las recepciones y despachos de romana
 - **Resumen de Registro de Peso:** Muestra el resumen por día de las entradas y salidas de romana.
 - **Saldos Pendientes:** Muestra lo pendiente por pagar al agricultor.
-- **Saldos Pendientes:** Muestra lo pendiente por pagar al agricultor a una fecha específica.
+- **Saldos Pendientes a la Fecha:** Muestra lo pendiente por pagar al agricultor a una fecha específica.
 - **Almacenamiento por Producto:** Muestra la existencia al día por producto, almacén y ubicación.
 - **Detalle de Almacenamiento:** Muestra la existencia al día por producto, instancia, almacén y ubicación.
 - **Detalle de Transacciones:** Muestra el histórico de transacciones de inventario en distintos almacénes.
