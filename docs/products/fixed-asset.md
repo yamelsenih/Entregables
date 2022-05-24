@@ -63,3 +63,10 @@ Solo Soportado `Depreciación Lineal`
 ### Reporte de Depreciación Acumulada de Activos
 Informe con la tabla de Depreciación del Activo con los montos Acumulados y Depreciados
 
+### Transacciones de Activos Fijos
+
+#### Adición de Activos Fijos
+Ventana donde se registran los gastos o re-evaluaciones de un Activos Fijo.
+
+#### Dar de Baja de Activos
+Ventana para dar de Baja al Activo Fijo
