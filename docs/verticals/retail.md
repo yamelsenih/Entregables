@@ -16,6 +16,13 @@ Y y reportes de ley. Todo esto con el valioso apoyo de un gran ERP.
 
 ## ¿Qué se necesita para instalar la vertical?
 
-## Productos relacionados
+## ¿Qué contiene la vertical?
+- [Ventas](../products/quote-to-invoice.md)
+- [Compras](../products/requisition-to-invoice.md)
+- [Gestión Administrativa](../products/business-administration-management.md)
+- [Gestión de Tesorería](../products/open-items-management.md)
+- [Tributos](../docs/products/tributes.md)
 
-## Paquetes Relacionados
+## Productos relacionados
+- [Nómina](../products/payroll.md)
+- [Contabilidad](../products/performance-analysis.md)
