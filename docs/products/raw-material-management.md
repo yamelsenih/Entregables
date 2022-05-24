@@ -1,0 +1,31 @@
+# Administración de Materia Prima
+Gestiona las entradas y salidas de materia prima, este producto es ideal para empresas que prestan servicios de maquila o almacenamiento de materia prima.
+
+## Reportes de Adminsitración de Materia Prima
+
+- **Detalle de Registro de Peso:** Muestra el detalle de todas las recepciones y despachos de romana
+- **Resumen de Registro de Peso:** Muestra el resumen por día de las entradas y salidas de romana.
+- **Saldos Pendientes:** Muestra lo pendiente por pagar al agricultor.
+- **Saldos Pendientes:** Muestra lo pendiente por pagar al agricultor a una fecha específica.
+- **Almacenamiento por Producto:** Muestra la existencia al día por producto, almacén y ubicación.
+- **Detalle de Almacenamiento:** Muestra la existencia al día por producto, instancia, almacén y ubicación.
+- **Detalle de Transacciones:** Muestra el histórico de transacciones de inventario en distintos almacénes.
+- **Inventario Analítico:** Reporte con el movimiento de transacciones de inventario acumulando por transacción.
+
+## Operaciones de Administración de Materia Prima
+- Registro de Agricultor
+- Registro de Orden de Compra
+- Recepción / Despacho de:
+  - Producto a Granel
+  - Producto Importado
+  - Producto Terminado
+  - Otro Tipo de Producto
+- Análisis de Calidad de Producto en Entrada y Salida
+- Cálculo de Peso Acondicionado / Negociado:
+  - Maíz
+  - Arroz
+  - Frijól
+- Liquidación de Producto
+- Pago al Agricultor
+
+Para referencia de la funcionalidad se tiene un instructivo completo con todos los productos y paquetes [aquí](https://docs.erpya.com/adempiere/farmer-assistance-management/index.html)
