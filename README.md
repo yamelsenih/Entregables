@@ -14,7 +14,8 @@ Contiene la definición detallada de todos los entregables desarrollados por ERP
 - [Tributos](docs/products/tributes.md)
 - [Contabilidad](docs/products/performance-analysis.md)
 - [Nómina](docs/products/human-resource-and-payroll.md)
-- [Administración de Materia Prima](docs/products/raw-material-management.md)
+- Agroindustria:
+  - [Administración de Materia Prima](docs/products/raw-material-management.md)
 
 ## Servicios
 - [Consultoría de Procesos](docs/services/process-consulting.md)
