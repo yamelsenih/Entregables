@@ -1,7 +1,7 @@
 # Administración de Materia Prima
 Gestiona las entradas y salidas de materia prima, este producto es ideal para empresas que prestan servicios de maquila o almacenamiento de materia prima.
 
-## Reportes de Adminsitración de Materia Prima
+## Reportes de Administración de Materia Prima
 
 - **Detalle de Registro de Peso:** Muestra el detalle de todas las recepciones y despachos de romana
 - **Resumen de Registro de Peso:** Muestra el resumen por día de las entradas y salidas de romana.
