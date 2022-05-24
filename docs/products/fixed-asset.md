@@ -36,3 +36,21 @@ Esta figura controla la información de los Activos Fijos basado en las siguient
   - Ubicación del Activo
   - Responsable del Activo
   - Información General Ultimo y Proximo Mantenimiento del Activo
+- Información del Producto Asociado al Activo
+- Saldos del Activo Fijo
+  - Costo del Activo
+  - Tipo de Aplicación
+  - Valor de Salvamento
+- Configuración Contable del Activo
+  - Validez del Activo
+  - Valor de Salvamento
+- Transacciones del Activo
+  - Tipo de Transacción (Gasto / Capital)
+  - Fuente de Entrada de la Transacción (Factura, Importación de Datos, Manual o Proyecto)
+  - Fecha de Transacción
+  - Fecha Contable
+  - Moneda
+  - Tipo de Conversión
+  - Monto
+
+
