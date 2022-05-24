@@ -36,7 +36,7 @@ Esta figura controla la información de los Activos Fijos basado en las siguient
   - Ubicación del Activo
   - Responsable del Activo
   - Información General Ultimo y Proximo Mantenimiento del Activo
-- Información del Producto Asociado al Activo
+- Información del Producto Asociado al Activo `INFORMACION`
 - Saldos del Activo Fijo
   - Costo del Activo
   - Tipo de Aplicación
@@ -52,6 +52,5 @@ Esta figura controla la información de los Activos Fijos basado en las siguient
   - Moneda
   - Tipo de Conversión
   - Monto de la Transacción
-- Desecho de Activos
-
+- Tabla de Depreciación
 
