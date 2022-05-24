@@ -59,3 +59,7 @@ Ventana con informacion resumida del activo
 
 ### Metodos de Depreciacion
 Solo Soportado `Depreciación Lineal`
+
+### Reporte de Depreciación Acumulada de Activos
+Informe con la tabla de Depreciación del Activo con los montos Acumulados y Depreciados
+
