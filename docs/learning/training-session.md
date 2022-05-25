@@ -20,7 +20,7 @@ Se requiere una capacitación sobre el proceso de requisición a compras para el
 
 ## Condiciones del Servicio
 - Este servicio corresponde a una sesión de una hora como mínimo
-- En caso dce requerir más de una hora, el costo es el equivalente al costo unitario del servicio por la cantidad de horas de capacitación
-- El servicio aplica únicamente por cada empresa
+- En caso de requerir más de una hora, la inversión es el equivalente al precio unitario del servicio por la cantidad de horas de capacitación
+- El servicio aplica por cada empresa
 - No incluye parametrización o cambios en la aplicación
-- El costo puede variar en función de los tiempos de entrega solicitados por el cliente
+- La inversión puede variar en función de los tiempos de entrega solicitados por el cliente
