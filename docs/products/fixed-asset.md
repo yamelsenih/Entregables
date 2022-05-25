@@ -57,7 +57,7 @@ Ventana para gestionar la información de los Activos Fijos basado en las siguie
 ### Ventana de Consulta de Activos
 Ventana con informacion resumida del activo
 
-### Metodos de Depreciacion
+### Métodos de Depreciacion
 Solo Soportado `Depreciación Lineal`
 
 ### Reporte de Depreciación Acumulada de Activos
