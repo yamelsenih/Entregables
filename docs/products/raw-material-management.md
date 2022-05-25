@@ -32,7 +32,7 @@ Para referencia de la funcionalidad se tiene un instructivo completo con todos l
 
 ## Alcance del Servicio
 - Instalación de la aplicación
-- [5 Sesiones de Capacitación a Vendedores](../learning/training-session.md)
-- [3 Sesiones de Capacitación a Supervisores](../learning/training-session.md)
-- [4 Sesiones de Capacitación a Genrentes](../learning/training-session.md)
-- Documentación en [Gestión de Asistencia al Agricultor](https://docs.erpya.com/adempiere-ui/adempiere/pos-management/point-of-sale-interface.html)
+- [Sesión general de capacitación sobre la aplicación incluído en la instalación](../learning/training-session.md)
+- [Sesión de 2 horas de capacitación para el manejo operativo](../learning/training-session.md)
+- [Sesión de 2 horas de capacitación para el manejo administrativo](../learning/training-session.md)
+- Documentación en [Gestión de Asistencia al Agricultor](https://docs.erpya.com/adempiere/farmer-assistance-management/index.html)
