@@ -13,6 +13,7 @@ Contiene la definición detallada de todos los entregables desarrollados por ERP
 - [Tesorería](docs/products/open-items-management.md)
 - [Tributos](docs/products/tributes.md)
 - [Contabilidad](docs/products/performance-analysis.md)
+- [Producción](docs/products/production-express.md)
 - [Nómina](docs/products/human-resource-and-payroll.md)
 - [Nómina Básica](docs/products/human-resource-and-payroll-express.md)
 - Agroindustria:
