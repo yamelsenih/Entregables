@@ -1,4 +1,4 @@
-## Producción Express
+## Producción Básica
 Gestiona la Producción en base a una lista de materiales predefinida.
 
 ## Reportes de Producción
