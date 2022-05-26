@@ -7,6 +7,7 @@ Administra todo lo relacionado con entradas y salidas de inventario. Desde una r
 - **Detalle de Almacenamiento:** Muestra la existencia al día por producto, instancia, almacén y ubicación.
 - **Detalle de Transacciones:** Muestra el histórico de transacciones de inventario en distintos almacénes.
 - **Inventario Analítico:** Reporte con el movimiento de transacciones de inventario acumulando por transacción.
+- **Informe de Reabastecimiento:** Muestra los productos que se encuentran con bajo nivel de inventario y que se deberían reabastecer
 
 ## Operaciones de Inventario
 - Recepción de Proveedor
