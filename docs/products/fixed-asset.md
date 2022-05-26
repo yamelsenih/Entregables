@@ -71,8 +71,13 @@ Ventana donde se registran los gastos o re-evaluaciones de un Activos Fijo.
 #### Dar de Baja de Activos
 Ventana para dar de Baja al Activo Fijo
 
+Para referencia de la funcionalidad se tiene un instructivo completo con todos los productos y paquetes [aquí](https://docs.erpya.com/adempiere/asset-management/index.html)
+
 ## Alcance del Servicio
 - Configuración y Parametrización de la aplicación
 - [Sesión general de capacitación sobre la aplicación incluído en la instalación](../learning/training-session.md)
 - [Sesión de 16 horas de capacitación para el manejo operativo](../learning/training-session.md)
 - [Sesión de 16 horas de capacitación para el manejo administrativo](../learning/training-session.md)
+- [Documentación](https://docs.erpya.com/adempiere/asset-management/index.html)
+
+
