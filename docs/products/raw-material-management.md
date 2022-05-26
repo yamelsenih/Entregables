@@ -28,7 +28,7 @@ Gestiona las entradas y salidas de materia prima, este producto es ideal para em
 - Liquidación de Producto
 - Pago al Agricultor
 
-Para referencia de la funcionalidad se tiene un instructivo completo con todos los productos y paquetes [aquí](https://docs.erpya.com/adempiere/farmer-assistance-management/index.html)
+Para referencia de la funcionalidad se tiene un instructivo completo con todos los productos y paquetes [aquí](https://docs.erpya.com/adempiere/farmer-assistance-management/index.html) y [aquí](https://docs.erpya.com/adempiere/distribution-management/record-weight.html)
 
 ## Alcance del Servicio
 - Instalación de la aplicación
