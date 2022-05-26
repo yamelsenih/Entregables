@@ -123,3 +123,11 @@ La  Nómina se encuentra integrada directamente al proceso de Análisis de Desem
   - Constancia de Trabajo
 
 Para referencia de la funcionalidad se tiene un instructivo completo con todos los productos y paquetes [aquí](https://docs.erpya.com/adempiere/human-resources-management/payroll/process-payroll/index.html)
+
+## Alcance del Servicio
+- Instalación de la aplicación
+- [Sesión general de capacitación sobre la aplicación incluído en la instalación](../learning/training-session.md)
+- [Sesión de 3 horas de capacitación para el manejo operativo](../learning/training-session.md)
+- [Sesión de 2 horas de capacitación para el manejo administrativo](../learning/training-session.md)
+- [Documentación](https://docs.erpya.com/adempiere/human-resources-management/payroll/process-payroll/index.html)
+
