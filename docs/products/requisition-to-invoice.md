@@ -29,4 +29,13 @@ Recibe sus materiales y crea directamente (y controla) los envíos correspondien
 Crea directamente (y controla) las facturas a partir de la Órdenes de Compra o Recibos. También puede crear automáticamente los recibos de las facturas al momento de recibir las facturas y los envíos.
 
 ## Pagos
-- Genera los pagos de acuerdo a las condiciones de pago considerando los descuentos por forma de pago,
+- Genera los pagos de acuerdo a las condiciones de pago considerando los descuentos por forma de pago
+
+Para referencia de la funcionalidad se tiene un instructivo completo con todos los productos y paquetes [aquí](https://docs.erpya.com/adempiere/requisition-to-invoice/index.html)
+
+## Alcance del Servicio
+- Instalación de la aplicación
+- [Sesión general de capacitación sobre la aplicación incluído en la instalación](../learning/training-session.md)
+- [Sesión de 3 horas de capacitación para el manejo operativo](../learning/training-session.md)
+- [Sesión de 2 horas de capacitación para el manejo administrativo](../learning/training-session.md)
+- [Documentación de Gestión de Asistencia al Agricultor](https://docs.erpya.com/adempiere/material-management/index.html)
