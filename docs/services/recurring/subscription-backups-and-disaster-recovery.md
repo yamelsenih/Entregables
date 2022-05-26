@@ -24,10 +24,12 @@ Se realizan tareas para que los datos se encuentren íntegros y de fácil acceso
 
 ## Recuperación en caso de desastre (DR)
 Este servicio es vital como garantía en caso de que el cliente tenga algún evento inesperado como daños físicos en su infraestructura que impidan recuperar información o levantar el servicio.
+
 ### Bondades
-- Reinstalación del Sistema Operativo: Esto únicamente aplica cuando la instalación del mismo queda a cargo de ERPyA
-- Recuperación de la información: En caso de ser posible recuperar la información que se encuntra en los servidores, ERPyA hará todo lo posible para recuperarla. Si no se puede recuperar se utilizará el último backup más reciente disponible
-- Restablecimiento del servicio: Corresponde a levantar el servicio nuevamente en los servidores del cliente. En caso de que el cliente no disponga temporalmente del servidor se puede ofrecer el servicio en la nube con un costo bajo demanda o infraestructura.
+- **Reinstalación del Sistema Operativo:** Esto únicamente aplica cuando la instalación del mismo queda a cargo de ERPyA
+- **Recuperación de la información:** En caso de ser posible recuperar la información que se encuntra en los servidores, ERPyA hará todo lo posible para recuperarla. Si no se puede recuperar se utilizará el reciente disponible
+- **Restablecimiento del servicio:** Corresponde a levantar el servicio nuevamente en los servidores del cliente. En caso de que el cliente no disponga temporalmente del servidor se puede ofrecer el servicio en la nube con un costo bajo demanda o infraestructura.
+
 ### Condiciones
 - La resinstalación y recuperación total sólo se hará sobre el servidor definitivo de producción o en la nube según el servicio contratado con un máximo de dos instalaciones por incidente
 - En caso de que el cliente desee la instalación en un servidor temporal la instalación definitiva será facturada
