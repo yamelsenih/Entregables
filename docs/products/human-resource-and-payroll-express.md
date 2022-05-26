@@ -7,7 +7,7 @@ Simplemente debe decidir usar esa definición estándar o bien modificarla para 
   - Administra, calcula y procesa horas extras. 
 - Recibo de Pago
 - Constancia de Trabajo
-- El trabajador puede generar su Recibo de Pago y/o Constancia de Trabajo
+
 ## Simulaciones 
 En las actividades del día al día, a veces resulta útil simular un cálculo de la nómina, por ejemplo, si se desea: Verificar las parametrizaciones específicas de su empresa. Investigar los efectos de cambios anticipados de datos maestros, rubros y reglas de cálculo para su personal. Identificar los efectos de posibles cambios legales. 
 La Nómina permite simular en cualquier momento una ejecución de la nómina para el período de nómina, departamento, puesto o empleado que usted desee. 
@@ -54,3 +54,10 @@ La Nómina permite simular en cualquier momento una ejecución de la nómina par
   - Constancia de Trabajo
 
 Para referencia de la funcionalidad se tiene un instructivo completo con todos los productos y paquetes [aquí](https://docs.erpya.com/adempiere/human-resources-management/payroll/process-payroll/index.html)
+
+## Alcance del Servicio
+- Instalación de la aplicación
+- [Sesión general de capacitación sobre la aplicación incluído en la instalación](../learning/training-session.md)
+- [Sesión de 3 horas de capacitación para el manejo operativo](../learning/training-session.md)
+- [Sesión de 2 horas de capacitación para el manejo administrativo](../learning/training-session.md)
+- [Documentación](https://docs.erpya.com/adempiere/human-resources-management/payroll/process-payroll/index.html)
