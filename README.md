@@ -11,7 +11,9 @@ Son adecuaciones específicas para un ramo o tipo de negocio, las mismas proveen
 ## Productos
 Son todos aquellos servicios que ya se encuentran definidos y tabulados, los mismos tienen una definición establecida en horas fijas o entregables finitos. Usted puede combinar o agregar a su vertical cualquiera de los siguientes productos.
 
-- [Compras](docs/products/requisition-to-invoice.md)
+- Compras:
+  - [Requisición](docs/products/requisition-process.md)
+  - [Compras](docs/products/requisition-to-invoice.md)
 - [Ventas](docs/products/quote-to-invoice.md)
 - [Cadena de Suministro](docs/products/supply-chain-management.md)
 - [Gestion de Materiales (Inventario)](docs/products/material-management.md)
