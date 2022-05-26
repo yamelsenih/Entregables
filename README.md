@@ -14,8 +14,9 @@ Contiene la definición detallada de todos los entregables desarrollados por ERP
 - [Tributos](docs/products/tributes.md)
 - [Contabilidad](docs/products/performance-analysis.md)
 - [Producción](docs/products/production-express.md)
-- [Nómina](docs/products/human-resource-and-payroll.md)
-- [Nómina Básica](docs/products/human-resource-and-payroll-express.md)
+- Recursos Humanos y Nómina:
+  - [Nómina Básica](docs/products/human-resource-and-payroll-express.md)
+  - [Nómina Completa](docs/products/human-resource-and-payroll.md)
 - Agroindustria:
   - [Administración de Materia Prima](docs/products/raw-material-management.md)
 - [Activos Fijos](docs/products/fixed-asset.md)
