@@ -28,3 +28,5 @@ Todos los cambios se realizan con el mínimo cuidado para que el cliente pueda o
 - Durante el uso de este servicio E.R.P. Consultores y Asociados, C.A. se compromete a realizar actualizaciones en el core de ADempiere para tener el mismo en una versión reciente y estable por lo cual durante el contrato de suscripción no es permitido que un tercero realice cambios en la aplicación.
 - Los cambios que el cliente decida realizar sobre la aplicación deben ser validados por el equipo de E.R.P. Consultores y Asociados, C.A.
 - En caso de no poseer el servicio de atención al cliente activo el cliente deberá realizar un ticket en la plataforma de tickets de ERPyA llenando la plantilla completamente
+- Cada ticket será sometido a un análisis para determinar si aplica para hacer algún cambio en la aplicación
+- Los tickets serán atendidos en función de su urgencia, si un ticket no detiene la operación o existe otra forma de hacer el procedimiento será desestimado
