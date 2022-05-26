@@ -8,16 +8,8 @@ Se pueden crear requerimientos manualmente o en forma automática vía Reposici�
 ## Solicitud para Cotización:
 Gestiona las peticiones realizadas por una empresa o un particular, dirigida a un fabricante, comercio o prestador de servicios, sobre los costos de un producto o servicio, para evaluar posibles compras, ademas de usarse para comparar precios con otros proveedores. 
 
-### Operaciones de Solicitud Para Cotización:
-- Creacion de Solicitud de Cotización a partir de una Requisición de Materiales.
-- Clasificación de proveedores por tipo de producto.
-- Solicitud para Cotización Basado en:
-  - Mejor Precio de Producto 
-  - Mejor Precio Global de Cotización.
-- Automatización de Notificación de Solicitud para Cotización.
-- Automatización de calculo automatico de Proveedor ganador de Solicitud para Cotización.
-- Generación de Orden de Compra basado en el ganador de la Solicitud para Cotización.
-- Reporte Analisis de Solicitud para Cotización.
+### Operaciones de Requisición:
+Controle sus requisiciones de compra a través del [proceso de requisición a compras](requisition-process.md)
 
 ## Órdenes de Compra
 Genera y consolida las órdenes de compra a partir de los requerimientos aprobados. El proceso de Reposición de Materiales puede también generar órdenes a partir de los requerimientos aprobados.
