@@ -22,3 +22,4 @@ Para referencia de la funcionalidad se tiene un instructivo completo con todos l
 - [Sesión general de capacitación sobre la aplicación incluído en la instalación](../learning/training-session.md)
 - [Sesión de 2 horas de capacitación para el manejo operativo](../learning/training-session.md)
 - [Sesión de 2 horas de capacitación para el manejo administrativo](../learning/training-session.md)
+- [Documentación](https://docs.erpya.com/adempiere/production-management/index.html#gestion-de-produccion)
