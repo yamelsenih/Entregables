@@ -24,9 +24,10 @@ Este servicio es de gran apoyo para empresas que poseen un equipo de informátic
 - El soporte es netamente funcional, cualquier cambio técnico de alcance será realizado bajo presupuesto, aprobación y pago por adelantado
 - El horario de atención está comprendido entre **8:00 AM** ~ **12:30 PM** y de **1:30 PM** ~ **5:00 PM** de lunes a viernes. No incluye: sábados, domingos y días feriados
 - La solicitud y seguimiento de los requerimientos se realizará únicamente a través de [Slack](https://erpya.slack.com/)
-- La atención fuera de este horario tendrá un **50%** de recargo
-- El **soporte es presencial**, las horas de la visita serán relacionadas y descontadas del plan contratado
+- El cliente estará de acuerdo con la realización de una agenda prévia a la visita con los tickets que serán revisados en la misma
+- El **soporte es presencial**: las horas de la visita serán relacionadas y descontadas del plan contratado
 - Los viáticos corren por cuenta del cliente
+- La atención fuera de este horario tendrá un **50%** de recargo
 - El monto mínimo a facturar en soporte en sitio es de **cuatro horas**
 - La factura del soporte como seguro será emitida los primeros días del mes contratado
 - El soporte será suspendido al tener al menos una factura con un vencimiento mayor a **5 días**
