@@ -31,5 +31,5 @@ Se requiere importar los proveedores de la empresa. Se debe suministrar en la pl
 ## Condiciones del Servicio
 - **Se harán dos iteraciones por cada elemento a importar:** Por cada iteración se entregará al cliente un reporte con los registros importados y los que no se pudieron importar por algún error en los datos.
 - Si se requiere hacer más de dos iteraciones, debe ser discutida y se generará una propuesta adicional.
-- Una vez aprobados los datos para importar se hará la impoortación, en caso de que el cliente desee importar datos adicionales serán tomados como un nuevo paquete de importación en función de la cantidad de redgistros a importar.
+- Una vez aprobados los datos para importar se hará la importación, en caso de que el cliente desee importar datos adicionales serán tomados como un nuevo paquete de importación en función de la cantidad de redgistros a importar.
 - La inversión económica a realizar para la importación de data será estimada en función de la cantidad de registros.
