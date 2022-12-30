@@ -10,7 +10,7 @@ __________,  [en adelante el CLIENTE]. Se conviene lo siguiente:
 2.1. ERPCYA cuenta con los medios técnicos y organizativos necesarios para realizar la prestación del servicio, y pondrá a disposición del CLIENTE el personal técnico o profesional adecuado para su prestación.
 2.2. El Servicio comprende las siguientes prestaciones por parte de ERPCYA:
 Soporte   telefónico:   Servicio   de   asistencia   telefónica   para   solución   de   dudas, consultas, asesoramiento y/o notificación de problemas sobre cualquier aspecto del Software (Telf. +58-2556659451)
-Ayuda   on-line:   Servicio   de   asistencia   telemática   a   través   de   correo   electrónico (E-mail:info@erpya.com), Slack, y/o del Área de Clientes de la web de ERPCYA (www.erpya.com), para solución de dudas, consultas, asesoramiento y/o notificación de problemas sobre cualquier aspecto del Software.
+Ayuda   on-line:   Servicio   de   asistencia   telemática   a   través   de   correo   electrónico (E-mail:info@erpya.com), Discord, y/o del Área de Clientes de la web de ERPCYA (www.erpya.com), para solución de dudas, consultas, asesoramiento y/o notificación de problemas sobre cualquier aspecto del Software.
 Soporte   personal:   Servicio   de   asistencia   personal   para   resolución   de   consultas   sobre  el Funcionamiento del Software en las oficinas de ERPCYA.
 Conexión remota: Servicio de asistencia a través de conexión remota segura para solución de consultas, asesoramiento, resolución de problemas y/o notificación de problemas relacionados con el Software.
 Formación:  Acceso a los cursos de formación y tutoriales on-line, sobre diferentes aspectos relacionados con el Software.
