@@ -15,7 +15,7 @@ Este servicio es de gran apoyo para empresas que poseen un equipo de informátic
 - Nivel de conocimiento aplicable a cualquier segmento o complejidad de la aplicación
 
 ## Entregable
-- Atención via [Slack](https://erpya.slack.com/)
+- Atención via [Discord](https://discord.com/)
 - Acceso a la [Base de Datos de Conocimiento ERPyA](https://stackoverflow.com/c/erpya-customers/questions)
 - Resumen mensual de atención al cliente
 - Informe de ticket y solución en caso de requerir algún procedimiento específico a realizar
@@ -23,7 +23,7 @@ Este servicio es de gran apoyo para empresas que poseen un equipo de informátic
 ## Condiciones del Servicio
 - El soporte es netamente funcional, cualquier cambio técnico de alcance será realizado bajo presupuesto, aprobación y pago por adelantado
 - El horario de atención está comprendido entre **8:00 AM** ~ **12:30 PM** y de **1:30 PM** ~ **5:00 PM** de lunes a viernes. No incluye: sábados, domingos y días feriados
-- La solicitud y seguimiento de los requerimientos se realizará únicamente a través de [Slack](https://erpya.slack.com/)
+- La solicitud y seguimiento de los requerimientos se realizará únicamente a través de [Discord](https://discord.com/)
 - El cliente estará de acuerdo con la realización de una agenda prévia a la visita con los tickets que serán revisados en la misma
 - El **soporte es presencial**: las horas de la visita serán relacionadas y descontadas del plan contratado
 - Los viáticos corren por cuenta del cliente
