@@ -15,7 +15,7 @@ Soporte   personal:   Servicio   de   asistencia   personal   para   resolución
 Conexión remota: Servicio de asistencia a través de conexión remota segura para solución de consultas, asesoramiento, resolución de problemas y/o notificación de problemas relacionados con el Software.
 Formación:  Acceso a los cursos de formación y tutoriales on-line, sobre diferentes aspectos relacionados con el Software.
 Documentación: Acceso a la librería de vídeos y manuales de ERPCYA. Docs
-Actualizaciones:   ERPCYA   pondrá   a   disposición   del   CLIENTE   las   nuevas   versiones   y/o actualizaciones del Software, de forma que las aplicaciones estén siempre al día y con las máximas prestaciones. Las actualizaciones del Software serán totalmente gratuitas y notificadas por medios digitales.
+Actualizaciones:   ERPCYA   pondrá   a   disposición   del   CLIENTE   las   nuevas   versiones   y/o actualizaciones del Software, de forma que las aplicaciones estén siempre al día y con las máximas prestaciones.
 Área de Clientes: Mediante conexión segura a través de la web de ERPCYA, el CLIENTE podrá 	acceder a diferentes servicios (Gestor de Servicios On-Cloud, Ayuda on-line, información actualizada, etc.)
 2.3. ERPCYA prestará el Servicio desde sus oficinas, por teléfono o por los medios que considere apropiados, dentro de las horas hábiles de trabajo y según el calendario laboral oficial: 	Lunes a Viernes De 08:00 a 12:30 y de 13:30 a 17:00.
 2.4. El tiempo de respuesta promedio para las consultas será de veinticuatro (24) horas hábiles o inferior, si bien en caso de errores de la aplicación el tiempo de solución del problema puede ser mayor o incluso no tener solución a corto plazo. En estos casos ERPCYA ofrecerá sugerencias para tratar de solventar el error.
