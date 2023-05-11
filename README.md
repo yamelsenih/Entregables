@@ -68,5 +68,9 @@ Cada paquete de servicio es un pequeño proceso medible y finito dentro de las a
 - [Condiciones Generales](docs/conditions.md)
 - [Contrato de Soporte](docs/agreement-support.md)
 
+
+## Requerimientos para instalar un entorno productivo para el uso de Adempiere bajo Kubernetes
+- [Requerimientos de Instalación](docs/setup/kubernetes_requirements.md)
+- 
 ## Licencia Creativa
 [Atribución-SinDerivadas 4.0 Internacional (CC BY-ND 4.0)](https://creativecommons.org/licenses/by-nd/4.0/deed.es)
